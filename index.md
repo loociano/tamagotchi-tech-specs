@@ -1,0 +1,3 @@
+## Tamagotch 
+
+Hi Tamago!
