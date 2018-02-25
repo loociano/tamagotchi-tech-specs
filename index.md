@@ -4,17 +4,17 @@
 
 ## Tamagotchi Releases (Worldwide)
 
-### Tamagotchi Original Series (1996-1998)
+### Original Series
 
-Versions: P1, P2, Angel and Ocean.
+Versions: P1, P2, Angel and Ocean (1996-1998).
 
-### Tamagotchi Connection Series (2004-2009)
+### Connection Series
 
-Versions: V1, V2 and V3, V4, V4.5, V5, V5.5 and V6.
+Versions: V1, V2, V3, V4, V4.5, V5, V5.5 and V6 (2004-2009).
 
-### Tamagotchi Mini (2005)
+### Mini
 
-Note: Tamagotchi Mini was relaunched worldwide in 2017.
+2005. Tamagotchi Mini was relaunched worldwide in 2017.
 
 #### Specs
 
@@ -34,22 +34,19 @@ Note: Tamagotchi Mini was relaunched worldwide in 2017.
 ![](assets/img/IMG_20180224_182121.jpg)
 ![](assets/img/IMG_20180224_182359.jpg)
 
-### TamaTown Tama-Go (2010)
+### TamaTown Tama-Go
 
 #### Links
 
 * [Tamagotchi Wiki. TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go)
 
-### Tamagotchi Friends (2014)
+### Friends Series
+
+Versions: Friends and Friends: Dream Town (2014-2016).
 
 #### Links
 
 * [Tamagotchi Wiki. Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends)
-
-### Tamagotchi Friends: Dream Town (2016)
-
-#### Links
-
 * [Tamagotchi Wiki. Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
 
 ## References
