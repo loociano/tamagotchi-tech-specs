@@ -1,4 +1,12 @@
-## Introduction 
+## Tamagotchi Releases
+
+### Original Tamagotchi (1996)
+
+### Tamagotchi Mini (2005, relaunched in 2017)
+
+* [Tamagotchi Wiki entry](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini)
+
+![](assets/img/IMG_20180224_134246.jpg)
 
 ## References
 
