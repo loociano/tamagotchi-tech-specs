@@ -26,12 +26,14 @@ section {
 
 #toc {
   list-style: none;
+  list-style-type: disc;
   height: auto;
-  padding: 0;
+  padding: 0 12px;
   background: none;
   border-radius: 0;
   border: 0;
   width: auto;
+  color: #267CB9;
 }
 
 #toc li {
@@ -44,9 +46,13 @@ section {
 #toc a {
   line-height: 1;
   font-size: 14px;
-  color: #676767;
+  color: #267CB9;
   display: inline;
   text-align: left;
   padding-top: 0;
   height: auto;
+}
+
+#toc a:hover {
+  font-weight: normal;
 }
