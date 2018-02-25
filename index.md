@@ -6,7 +6,11 @@
 
 * [Tamagotchi Wiki entry](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini)
 
+#### Disassembly
+
 ![](assets/img/IMG_20180224_134246.jpg)
+![](assets/img/IMG_20180224_181646.jpg)
+![](assets/img/IMG_20180224_182121.jpg)
 
 ## References
 
