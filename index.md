@@ -29,12 +29,12 @@ Mini was released in 2005 and re-launched worldwide in 2017.
 
 ### Disassembly
 
-<div class="half-sized">
+<p class="half-sized">
   <img src="assets/img/IMG_20180224_134246.jpg"/>
   <img src="assets/img/IMG_20180224_182359.jpg"/>
   <img src="assets/img/IMG_20180224_181646.jpg"/>
   <img src="assets/img/IMG_20180224_182121.jpg"/>
-</div>
+</p>
 
 ## TamaTown Tama-Go
 
