@@ -1,6 +1,6 @@
 ## Introduction
 
-[tamagotch.org](http://tamagotch.org) is a project that aims at documenting the technical specifications of Tamagotchi toys. We focus on the worldwide releases.
+[tamagotch.org](http://tamagotch.org) aims at documenting the technical specifications of Tamagotchi toys. We focus on the worldwide releases. Do you want to contribute or report a broken link? Please [open a pull request](https://github.com/loociano/tamagotch).
 
 ## Original Series
 
