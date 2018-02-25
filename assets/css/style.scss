@@ -36,12 +36,12 @@ section {
 
 #toc li {
   width: inherit;
-  float: left;
+  float: none;
   border-right: none;
   height: auto;
 }
 
-#toc ul a {
+#toc a {
   line-height: 1;
   font-size: 14px;
   color: #676767;
