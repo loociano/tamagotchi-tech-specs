@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  font-family: 'Lato', sans-serif;
+}
 
 a:hover, a:focus {
   font-weight: normal;
