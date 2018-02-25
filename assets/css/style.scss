@@ -23,3 +23,30 @@ a:hover {
 section {
   width: 550px;
 }
+
+#toc {
+  list-style: none;
+  height: auto;
+  padding: 0;
+  background: none;
+  border-radius: 0;
+  border: 0;
+  width: auto;
+}
+
+#toc li {
+  width: inherit;
+  float: left;
+  border-right: none;
+  height: auto;
+}
+
+#toc ul a {
+  line-height: 1;
+  font-size: 14px;
+  color: #676767;
+  display: inline;
+  text-align: left;
+  padding-top: 0;
+  height: auto;
+}
