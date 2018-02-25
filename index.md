@@ -1,9 +1,16 @@
 ## Tamagotchi Releases
 
-### Original Tamagotchi (1996)
+### Tamagotchi Mini (2017)
 
-### Tamagotchi Mini (2005, relaunched in 2017)
+#### Specs
 
+* CPU: ?
+* Memory: ?
+* IO: 3 buttons, 16x16 pixel screen
+
+#### Links
+
+* [Official Page (Japanese)](http://tamagotch.channel.or.jp/tamagotchi/mini)
 * [Tamagotchi Wiki entry](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini)
 
 #### Disassembly
