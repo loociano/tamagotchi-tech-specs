@@ -2,41 +2,39 @@
 
 [tamagotch.org](http://tamagotch.org) is a project that aims at documenting the technical specifications of Tamagotchi toys.
 
-## Tamagotchi Releases
-
-### Original Series
+## Original Series
 
 Versions: P1, P2, Angel and Ocean (1996-1998).
 
-### Connection Series
+## Connection Series
 
 Versions: V1, V2, V3, V4, V4.5, V5, V5.5 and V6 (2004-2009).
 
-### Mini
+## Mini
 
 2005. Tamagotchi Mini was relaunched worldwide in 2017.
 
-#### Specs
+### Specs
 
 * CPU: ?
 * Memory: ?
 * IO: 3 buttons, 16x16 pixel screen
 
-#### Links
+### Links
 
 * [Official Page (Japanese)](http://tamagotch.channel.or.jp/tamagotchi/mini)
 * [Tamagotchi Wiki entry](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini)
 
-#### Disassembly
+### Disassembly
 
 ![](assets/img/IMG_20180224_134246.jpg)
 ![](assets/img/IMG_20180224_181646.jpg)
 ![](assets/img/IMG_20180224_182121.jpg)
 ![](assets/img/IMG_20180224_182359.jpg)
 
-### TamaTown Tama-Go
+## TamaTown Tama-Go
 
-#### Specs
+### Specs
 
 * CPU: 8-bit CMOS GPLB52320A ([datasheet](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)) with 2x 16-bit timers.
 * RAM: 1,536 bytes
@@ -46,7 +44,7 @@ Versions: V1, V2, V3, V4, V4.5, V5, V5.5 and V6 (2004-2009).
   * Display Controller: 4 levels of gray with 512 bytes of dedicated RAM. 64 segments and 32 commons = 2048 pixels
 * Sound Processing Unit (SPU)
 
-#### Memory Map
+### Memory Map
 
 ```
 $0000-$0600 SPU RAM, GP RAM
@@ -65,15 +63,15 @@ $FFFA-$FFFD NMI and reset vector
 $FFFE-$FFFF -
 ```
 
-#### Links
+### Links
 
 * [Tamagotchi Wiki. TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go)
 
-### Friends Series
+## Friends Series
 
 Versions: Friends and Friends: Dream Town (2014-2016).
 
-#### Links
+### Links
 
 * [Tamagotchi Wiki. Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends)
 * [Tamagotchi Wiki. Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
