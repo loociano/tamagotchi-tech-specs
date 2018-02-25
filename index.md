@@ -1,6 +1,6 @@
 ## Introduction
 
-[tamagotch.org](http://tamagotch.org) aims at documenting the technical specifications of Tamagotchi toys, with focus on worldwide releases. This project is inspired by [this talk](https://www.youtube.com/watch?v=c4PkcZScBV8) by Natalie Silvanovich and her further work on Tamagotchis.
+[tamagotch.org](http://tamagotch.org) aims at documenting the technical specifications of Tamagotchi toys, with focus on worldwide releases. This project is inspired by [this talk](https://www.youtube.com/watch?v=c4PkcZScBV8) by [Natalie Silvanovich. Personal Site](http://natashenka.ca) and her further work on Tamagotchis.
 
 Check out the [GitHub repo](https://github.com/loociano/tamagotc) to contribute or report a broken link.
 
