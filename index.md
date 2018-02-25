@@ -1,29 +1,29 @@
 ## Introduction
 
-[tamagotch.org](http://tamagotch.org) is a project that aims at documenting the technical specifications of Tamagotchi toys.
+[tamagotch.org](http://tamagotch.org) is a project that aims at documenting the technical specifications of Tamagotchi toys. We focus on the worldwide releases.
 
 ## Original Series
 
-Versions: P1, P2, Angel and Ocean (1996-1998).
+* Versions: [P1 and P2](http://tamagotchi.wikia.com/wiki/Tamagotchi_(1996_Pet)), [Angel](http://tamagotchi.wikia.com/wiki/Tamagotchi_Angel) and [Ocean](http://tamagotchi.wikia.com/wiki/Tamagotchi_Ocean) 
+* Release Dates: 1996-1998
 
 ## Connection Series
 
-Versions: V1, V2, V3, V4, V4.5, V5, V5.5 and V6 (2004-2009).
+* Versions: [V1](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_1), [V2](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_2), [Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini), [V3](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_3), [V4](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4), [V4.5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4.5), [V5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5), [V5.5 (Celebrity)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5_Celebrity) and [V6 (Music Star)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Music_Star).
+* Release Dates: 2004-2009
 
 ## Mini
 
-Released in 2005 and re-launched worldwide in 2017.
+Mini was released in 2005 and re-launched worldwide in 2017.
 
-### Specs
+* [Official Page (Japanese)](http://tamagotch.channel.or.jp/tamagotchi/mini)
+* [Tamagotchi Wiki entry](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini)
+
+### Tech Specs
 
 * CPU: ?
 * Memory: ?
 * IO: 3 buttons, 16x16 pixel screen
-
-### Links
-
-* [Official Page (Japanese)](http://tamagotch.channel.or.jp/tamagotchi/mini)
-* [Tamagotchi Wiki entry](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini)
 
 ### Disassembly
 
@@ -34,7 +34,9 @@ Released in 2005 and re-launched worldwide in 2017.
 
 ## TamaTown Tama-Go
 
-### Specs
+[TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go) was released in 2010 and reverse engineered by [Natalie Silvanovich](http://natashenka.ca).
+
+### Tech Specs
 
 * CPU: 8-bit CMOS GPLB52320A ([datasheet](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)) with 2x 16-bit timers.
 * RAM: 1,536 bytes
@@ -82,6 +84,7 @@ Versions: Friends and Friends: Dream Town (2014-2016).
 
 * [tamagotchi.wikia.com](http://tamagotchi.wikia.com) The most comprehensive Tamagotchi Wiki to date.
 * [Wikipedia. List of Tamagotchi releases](https://en.wikipedia.org/wiki/List_of_Tamagotchi_releases)
+* [Natalie Silvanovich. Personal Site](http://natashenka.ca)
 * [kwartzlab. Natalie Silvanovich posts](https://www.kwartzlab.ca/author/natalies)
 * [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
 
