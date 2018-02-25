@@ -24,7 +24,7 @@ section {
   width: 550px;
 }
 
-header toc {
+header ul.toc {
   list-style: none;
   list-style-type: disc;
   height: auto;
@@ -36,14 +36,14 @@ header toc {
   color: #267CB9;
 }
 
-header toc li {
+header ul.toc li {
   width: inherit;
   float: none;
   border-right: none;
   height: auto;
 }
 
-header toc li a {
+header ul.toc a {
   line-height: 1;
   font-size: 14px;
   color: #267CB9;
@@ -53,6 +53,6 @@ header toc li a {
   height: auto;
 }
 
-header toc li a:hover {
+header ul.toc a:hover {
   font-weight: normal;
 }
