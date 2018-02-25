@@ -2,7 +2,7 @@
 
 [tamagotch.org](http://tamagotch.org) is a project that aims at documenting the technical specifications of Tamagotchi toys.
 
-## Tamagotchi Releases (Worldwide)
+## Tamagotchi Releases
 
 ### Original Series
 
@@ -35,6 +35,35 @@ Versions: V1, V2, V3, V4, V4.5, V5, V5.5 and V6 (2004-2009).
 ![](assets/img/IMG_20180224_182359.jpg)
 
 ### TamaTown Tama-Go
+
+#### Specs
+
+* CPU: 8-bit CMOS GPLB52320A ([datasheet](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)) with 2x 16-bit timers.
+* RAM: 1,536 bytes
+* ROM: 320K bytes = 10 banks of 32K ($0000-$7FFF)
+* IO: 16 ports PA[7:0], PB[7:0]
+  * Serial Peripheral Interface (SPI)
+  * Display Controller: 4 levels of gray with 512 bytes of dedicated RAM. 64 segments and 32 commons = 2048 pixels
+* Sound Processing Unit (SPU)
+
+#### Memory Map
+
+```
+$0000-$0600 SPU RAM, GP RAM
+$0600-$0FFF -
+$1000-$1FFF DPRAM (VRAM)
+$2000-$2FFF -
+$3000-$3FFF IO Reg
+$4000-$7FFF ROM bank (lower)
+$8000-$BFFF ROM bank (high)
+$C000-$CBBF SPU table, test program
+$CBC0-$CBFF Test Interrupt Vector
+$CC00-$FFBF ROM (33C0 bytes)
+$FFC0-$FFEF Interrupt Vector
+$FFF0-$FFF9 -
+$FFFA-$FFFD NMI and reset vector
+$FFFE-$FFFF -
+```
 
 #### Links
 
