@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a:hover, a:focus {
+  font-weight: normal;
+}
+
 a:hover {
-	font-weight: normal;
+  text-decoration:underline;
 }
