@@ -3,9 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-{% seo %}
-
+    <title>tamagotchi.org — Tamagotchi Tech Specs</title>
+    <meta property="og:title" content="Tamagotchi Tech Specs">
+    <meta property="og:locale" content="en_US">
+    <link rel="canonical" href="http://tamagotch.org/">
+    <meta property="og:url" content="http://tamagotch.org/">
+    <meta property="og:site_name" content="Tamagotchi Tech Specs">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
@@ -15,9 +18,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ site.github.url }}"> <h1>tamagotch.org</h1> </a>
-        <p>Tamagotchi Tech Specs</p>
-        <p>By <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <h1>tamagotch.org</h1>
+        <p>Tamagotchi Tech Specs<br/>by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       </header>
       <section>
 
@@ -25,7 +27,7 @@
 
       </section>
       <footer>
-        <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub <small>{{ github_name }}</small></a></p>
+        <p class="view"><small><a href="{{ site.github.repository_url }}">View on GitHub</a></small></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>

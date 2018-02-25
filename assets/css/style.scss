@@ -2,10 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 
 body {
   font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 300;
 }
 
 a:hover, a:focus {
