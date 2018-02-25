@@ -12,7 +12,7 @@ Versions: V1, V2, V3, V4, V4.5, V5, V5.5 and V6 (2004-2009).
 
 ## Mini
 
-2005. Tamagotchi Mini was relaunched worldwide in 2017.
+Released in 2005 and re-launched worldwide in 2017.
 
 ### Specs
 
