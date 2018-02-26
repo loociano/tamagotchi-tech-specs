@@ -69,9 +69,14 @@ $FFFA-$FFFD NMI and reset vector
 $FFFE-$FFFF -
 ```
 
-### Links
+### Disassembly
 
-* [Tamagotchi Wiki. TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go)
+Source: [Tama-Town Tamago Teardown. Natalie Silvanovich](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown)
+
+![](assets/img/tamago_box.png)
+![](assets/img/tamago_board.jpg)
+![](assets/img/tamago_epoxy.jpg)
+![](assets/img/tamago_figure_pcb.jpg)
 
 ## Friends Series
 
