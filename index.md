@@ -97,12 +97,24 @@ Source: [Tama-Town Tamago Teardown. Natalie Silvanovich](https://www.kwartzlab.c
 
 ## Friends Series
 
-Versions: Friends and Friends: Dream Town (2014-2016).
+* Versions: [Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends) and [Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
+* Release dates: 2014-2016
 
-### Links
+### Disassembly
 
-* [Tamagotchi Wiki. Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends)
-* [Tamagotchi Wiki. Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
+Source: [Tamagotchi Friends Teardown. Natalie Silvanovich (2013)](http://natashenka.ca/tamagotchi-friends-teardown/)
+
+![](assets/img/IMG_20131218_220653_edit-1024x636.jpg)
+*Tamagotchi Friends*
+
+![](assets/img/IMG_20131218_212106_edit.jpg)
+*Tamagotchi Friends front, without plastic case*
+
+![](assets/img/IMG_20131218_213938_edit-1024x659.jpg)
+*Tamagotchi Friends board (back) and NFC antenna*
+
+![](assets/img/IMG_20131218_214604_edit-1021x1024.jpg)
+*Tamagotchi Friends board (front) with epoxy*
 
 ## References
 
@@ -120,6 +132,10 @@ Versions: Friends and Friends: Dream Town (2014-2016).
 
 * [29c3: Many Tamagotchis Were Harmed in the Making of this Presentation](https://www.youtube.com/watch?v=c4PkcZScBV8)
 * [30c3: Even More Tamagotchis Were Harmed in the Making of this Presentation](https://www.youtube.com/watch?v=mCt5U5ssbGU) ([slides](https://events.ccc.de/congress/2013/Fahrplan/system/attachments/2195/original/30c3_(1).pdf))
+
+### Videos 
+
+* [Erica Griffin. Tamagotchi Take Apart Guide](https://www.youtube.com/watch?v=ShO4Uam0XKM) Disassembly of an Original Tamagotchi (P1/P2 version). 2009.
 
 ### GitHub repos
 
