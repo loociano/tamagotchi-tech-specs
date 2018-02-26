@@ -78,3 +78,9 @@ ul ul {
 .half-sized img {
   max-width: 48%;
 }
+
+@media print, screen and (max-width: 960px) {
+  header ul {
+    position: static; /* fix TOC on mobile */
+  }
+}
