@@ -82,12 +82,16 @@ Source: [Tama-Town Tamago Teardown. Natalie Silvanovich](https://www.kwartzlab.c
 
 ![](assets/img/tamago_box.png)
 *TamaTown Tamago packaging*
+
 ![](assets/img/tamago_board.jpg)
 *TamaTown board*
+
 ![](assets/img/tamago_epoxy.jpg)
 *TamaTown Tama-Go board, back side*
+
 ![](assets/img/tamago_figure_pcb.jpg)
 *TamaTown Tama-Go top board, for figure*
+
 ![](assets/img/tamago_mask_rom.jpg)
 *TamaTown figure board with epoxy*
 
