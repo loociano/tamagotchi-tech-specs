@@ -20,6 +20,15 @@ a:hover, a:focus {
   font-weight: normal;
 }
 
+h1 a {
+  color: #393939;
+}
+
+h1 a:hover {
+  color: #393939;
+  text-decoration:none;
+}
+
 a:hover {
   text-decoration:underline;
 }
