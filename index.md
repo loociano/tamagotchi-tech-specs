@@ -152,3 +152,11 @@ Source: [Tamagotchi Friends Teardown. Natalie Silvanovich (2013)](http://natashe
 
 * [Generalplus. GPLB52640A-52320A-51640A-51320A Version 1.9 (Dec 30, 2010).](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)
 * [GPLB5x/3x GM03 Library User's Manual Version 2.0 (April 29, 2009)](http://www.lcis.com.tw/paper_store/paper_store/gplb5x_lb3x-GM03%20Libraryv20_user-201471313910398.pdf)
+
+### Patents
+
+* [Simulation device for fostering a virtual creature. US5966526A (1999)](https://patents.google.com/patent/US5966526A)
+* [Nurturing simulation apparatus for virtual creatures. US6213871B1 (2001)](https://patents.google.com/patent/US6213871B1)
+* [Breeding simulation apparatus for virtual creatures. US7104884B2 (2006)](https://patents.google.com/patent/US7104884B2)
+* [Communication game device. US8545324B2 (2013)](https://patents.google.com/patent/US8545324B2/en)
+* [Game device, control method, and program. US20140066204A1 (2014)](https://patents.google.com/patent/US20140066204)
