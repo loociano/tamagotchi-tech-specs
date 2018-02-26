@@ -1,8 +1,8 @@
 ## Introduction
 
-[tamagotch.org](http://tamagotch.org) aims at documenting the technical specifications of Tamagotchi toys, with focus on worldwide releases. This project is inspired by [this talk](https://www.youtube.com/watch?v=c4PkcZScBV8) by [Natalie Silvanovich. Personal Site](http://natashenka.ca) and her further work on Tamagotchis.
+[tamagotch.org](http://tamagotch.org) aims at documenting the technical specifications of Tamagotchi toys, with focus on worldwide releases. This project is inspired by [this talk](https://www.youtube.com/watch?v=c4PkcZScBV8) by [Natalie Silvanovich](http://natashenka.ca) and her further work on Tamagotchis.
 
-Check out the [GitHub repo](https://github.com/loociano/tamagotc) to contribute or report a broken link.
+Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute or report a broken link.
 
 ## Original Series
 
@@ -86,11 +86,13 @@ Versions: Friends and Friends: Dream Town (2014-2016).
 
 ### Sites
 
-* [tamagotchi.wikia.com](http://tamagotchi.wikia.com) The most comprehensive Tamagotchi Wiki to date.
+* [tamagotchi.wikia.com](http://tamagotchi.wikia.com) The most comprehensive Tamagotchi Wiki to date
+* [TamaTalk](http://www.tamatalk.com/IB/) _The_ Tamagotchi forum by excellence 
 * [Wikipedia. List of Tamagotchi releases](https://en.wikipedia.org/wiki/List_of_Tamagotchi_releases)
 * [Natalie Silvanovich. Personal Site](http://natashenka.ca)
 * [kwartzlab. Natalie Silvanovich posts](https://www.kwartzlab.ca/author/natalies)
 * [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
+* [Project TamaShell](http://www.tamashell.com) Complete list of Tamagotchi versions and shells
 
 ### Presentations
 
