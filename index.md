@@ -9,15 +9,15 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 * Versions: [P1 and P2](http://tamagotchi.wikia.com/wiki/Tamagotchi_(1996_Pet)), [Angel](http://tamagotchi.wikia.com/wiki/Tamagotchi_Angel) and [Ocean](http://tamagotchi.wikia.com/wiki/Tamagotchi_Ocean) 
 * Release Dates: 1996-1998
 
-### Disassembly 
-
-![](assets/img/1_fN1ejV-wDzZNh1dUgH07JA.jpeg)
-*Tamagotchi P1 disassembly ([Source](https://artplusmarketing.com/another-icons-teardown-tamagotchi-original-322dc8ed188d))*
-
 ## Connection Series
 
 * Versions: [V1](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_1), [V2](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_2), [Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini), [V3](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_3), [V4](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4), [V4.5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4.5), [V5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5), [V5.5 (Celebrity)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5_Celebrity) and [V6 (Music Star)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Music_Star).
 * Release Dates: 2004-2009
+
+### Disassembly 
+
+![](assets/img/1_fN1ejV-wDzZNh1dUgH07JA.jpeg)
+*Tamagotchi Connection disassembly ([source](https://artplusmarketing.com/another-icons-teardown-tamagotchi-original-322dc8ed188d))*
 
 ## Mini
 
@@ -83,22 +83,20 @@ $FFFE-$FFFF -
 
 ### Disassembly
 
-Source: [Tama-Town Tamago Teardown. Natalie Silvanovich](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown)
-
 ![](assets/img/tamago_box.png)
-*TamaTown Tamago packaging*
+*TamaTown Tamago packaging ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
 ![](assets/img/tamago_board.jpg)
-*TamaTown board*
+*TamaTown board ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
 ![](assets/img/tamago_epoxy.jpg)
-*TamaTown Tama-Go board, back side*
+*TamaTown Tama-Go board, back side ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
 ![](assets/img/tamago_figure_pcb.jpg)
-*TamaTown Tama-Go top board, for figure*
+*TamaTown Tama-Go top board, for figure ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
 ![](assets/img/tamago_mask_rom.jpg)
-*TamaTown figure board with epoxy*
+*TamaTown figure board with epoxy ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
 ## Friends Series
 
@@ -107,19 +105,17 @@ Source: [Tama-Town Tamago Teardown. Natalie Silvanovich](https://www.kwartzlab.c
 
 ### Disassembly
 
-Source: [Tamagotchi Friends Teardown. Natalie Silvanovich (2013)](http://natashenka.ca/tamagotchi-friends-teardown/)
-
 ![](assets/img/IMG_20131218_220653_edit-1024x636.jpg)
-*Tamagotchi Friends*
+*Tamagotchi Friends ([source](http://natashenka.ca/tamagotchi-friends-teardown/))*
 
 ![](assets/img/IMG_20131218_212106_edit.jpg)
-*Tamagotchi Friends front, without plastic case*
+*Tamagotchi Friends front, without plastic case ([source](http://natashenka.ca/tamagotchi-friends-teardown/))*
 
 ![](assets/img/IMG_20131218_213938_edit-1024x659.jpg)
-*Tamagotchi Friends board (back) and NFC antenna*
+*Tamagotchi Friends board (back) and NFC antenna ([source](http://natashenka.ca/tamagotchi-friends-teardown/))*
 
 ![](assets/img/IMG_20131218_214604_edit-1021x1024.jpg)
-*Tamagotchi Friends board (front) with epoxy*
+*Tamagotchi Friends board (front) with epoxy ([source](http://natashenka.ca/tamagotchi-friends-teardown/))*
 
 ## References
 
