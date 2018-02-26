@@ -84,3 +84,7 @@ ul ul {
     position: static; /* fix TOC on mobile */
   }
 }
+
+img + em {
+  text-align: center;
+}

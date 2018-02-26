@@ -50,10 +50,8 @@ Mini was released in 2005 and re-launched worldwide in 2017.
   * Display Controller: 4 levels of gray with 512 bytes of dedicated RAM. 64 segments and 32 commons = 2048 pixels
 * Sound Processing Unit (SPU)
 
-<div class="caption">
-  <img src="assets/img/5713302509_7274f755d7_b.jpg"/>
-  <p>GPLB52320A schematic and actual chip</p>
-</div>
+![](assets/img/5713302509_7274f755d7_b.jpg)
+*GPLB52320A schematic and actual chip*
 
 Tama-Go Figure
 
