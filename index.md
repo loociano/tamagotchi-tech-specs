@@ -136,7 +136,8 @@ $FFFE-$FFFF -
 
 ### Videos 
 
-* [Erica Griffin. Tamagotchi Take Apart Guide](https://www.youtube.com/watch?v=ShO4Uam0XKM) Disassembly of an Original Tamagotchi (P1/P2 version). 2009.
+* [Erica Griffin. Tamagotchi Take Apart Guide (2009)](https://www.youtube.com/watch?v=ShO4Uam0XKM) Disassembly of a P1 Tamagotchi
+* [Pavel Zhovner. Tamagotchi Friends Teardown (2015)](https://www.youtube.com/watch?v=Rm9d0W7wLKk) Disassembling a Tamagotchi Friends
 
 ### GitHub repos
 
