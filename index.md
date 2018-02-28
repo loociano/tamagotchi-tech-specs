@@ -21,10 +21,9 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 
 ## Tamagotchi Mini
 
-Mini was released in 2005 and re-launched worldwide in 2017.
+[Tamagotchi Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini) was released in 2005 and re-launched worldwide in 2017.
 
 * [Official Page (Japanese)](http://tamagotch.channel.or.jp/tamagotchi/mini)
-* [Tamagotchi Wiki entry](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini)
 
 ### Tech Specs
 
