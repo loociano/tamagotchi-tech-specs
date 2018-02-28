@@ -80,6 +80,9 @@ ul ul {
 }
 
 @media print, screen and (max-width: 960px) {
+  body, h1, h2, h3, h4, h5, h6, header ul.toc a {
+    font-size: 1.2em;
+  }
   header ul {
     position: static; /* fix TOC on mobile */
   }
