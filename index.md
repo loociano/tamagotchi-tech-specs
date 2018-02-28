@@ -4,12 +4,12 @@
 
 Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute or report a broken link.
 
-## Original Series
+## Tamagotchi Original Series
 
 * Versions: [P1 and P2](http://tamagotchi.wikia.com/wiki/Tamagotchi_(1996_Pet)), [Angel](http://tamagotchi.wikia.com/wiki/Tamagotchi_Angel) and [Ocean](http://tamagotchi.wikia.com/wiki/Tamagotchi_Ocean) 
 * Release Dates: 1996-1998
 
-## Connection Series
+## Tamagotchi Connection Series
 
 * Versions: [V1](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_1), [V2](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_2), [Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini), [V3](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_3), [V4](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4), [V4.5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4.5), [V5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5), [V5.5 (Celebrity)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5_Celebrity) and [V6 (Music Star)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Music_Star).
 * Release Dates: 2004-2009
@@ -19,7 +19,7 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 ![](assets/img/1_fN1ejV-wDzZNh1dUgH07JA.jpeg)
 *Tamagotchi Connection disassembly ([source](https://artplusmarketing.com/another-icons-teardown-tamagotchi-original-322dc8ed188d))*
 
-## Mini
+## Tamagotchi Mini
 
 Mini was released in 2005 and re-launched worldwide in 2017.
 
@@ -98,7 +98,7 @@ $FFFE-$FFFF -
 ![](assets/img/tamago_mask_rom.jpg)
 *TamaTown figure board with epoxy ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
-## Friends Series
+## Tamagotchi Friends Series
 
 * Versions: [Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends) and [Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
 * Release dates: 2014-2016
