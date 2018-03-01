@@ -154,8 +154,10 @@ $FFFE-$FFFF -
 
 ### Patents
 
-* [Simulation device for fostering a virtual creature. US5966526A (1999)](https://patents.google.com/patent/US5966526A)
-* [Nurturing simulation apparatus for virtual creatures. US6213871B1 (2001)](https://patents.google.com/patent/US6213871B1)
-* [Breeding simulation apparatus for virtual creatures. US7104884B2 (2006)](https://patents.google.com/patent/US7104884B2)
-* [Communication game device. US8545324B2 (2013)](https://patents.google.com/patent/US8545324B2/en)
-* [Game device, control method, and program. US20140066204A1 (2014)](https://patents.google.com/patent/US20140066204)
+* [Nurturing simulation apparatus for virtual creatures. US6213871B1 (1997)](https://patents.google.com/patent/US6213871B1)
+* [Game apparatus. USD398659S (1997)](https://patents.google.com/patent/USD398659S)
+* [Simulation device for fostering a virtual creature. US5966526A (1997)](https://patents.google.com/patent/US5966526A)
+* [Breeding simulation apparatus for virtual creatures. US7104884B2 (2004)](https://patents.google.com/patent/US7104884B2)
+* [Virtual Creature Breeding Simulation System and Information Processing System. US20080096661A1 (2004)](https://patents.google.com/patent/US20080096661A1) 
+* [Communication game device. US8545324B2 (2004)](https://patents.google.com/patent/US8545324B2)
+* [Game device, control method, and program. US20140066204A1 (2013)](https://patents.google.com/patent/US20140066204)
