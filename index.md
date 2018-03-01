@@ -138,7 +138,6 @@ $FFFE-$FFFF -
 * [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
 * [Project TamaShell](http://www.tamashell.com) Complete list of Tamagotchi versions and shells
 * [Pixelmood](http://www.tamatalk.com/pixelmood) Tamagotchi fan site, discontinued in 2011. 2 technical articles were published: [Tamagotchi Inside](http://www.tamatalk.com/pixelmood/tamagotchi_inside.htm) and [Tamagotchi Debugging](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm)
-  * Note: like many websites in the late 90s and 2000s, right click and text selection were disabled. You can enable them by pasting the following JavaScript in the address bar: `javascript:document.oncontextmenu=0;document.onselectstart=0`
 
 ### Presentations
 
