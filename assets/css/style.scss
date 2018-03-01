@@ -12,6 +12,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 400;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
+
 * + h2 {
   margin-top: 60px; /* add margin except in introduction */
 }
@@ -31,6 +36,10 @@ h1 a:hover {
 
 a:hover {
   text-decoration:underline;
+}
+
+header img {
+  display: inline;
 }
 
 header ul.toc {
@@ -83,11 +92,6 @@ ul ul {
   header ul {
     position: static; /* fix TOC on mobile */
   }
-}
-
-img {
-  display: block;
-  margin: 0 auto;
 }
 
 img + em {
