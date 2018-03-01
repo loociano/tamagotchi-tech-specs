@@ -73,6 +73,7 @@ ul ul {
 
 .half-sized img {
   max-width: 48%;
+  display: inline;
 }
 
 @media print, screen and (max-width: 960px) {
