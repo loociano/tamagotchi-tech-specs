@@ -141,8 +141,9 @@ $FFFE-$FFFF -
 
 ### Presentations
 
-* [29c3: Many Tamagotchis Were Harmed in the Making of this Presentation](https://www.youtube.com/watch?v=c4PkcZScBV8)
-* [30c3: Even More Tamagotchis Were Harmed in the Making of this Presentation](https://www.youtube.com/watch?v=mCt5U5ssbGU) ([slides](https://events.ccc.de/congress/2013/Fahrplan/system/attachments/2195/original/30c3_(1).pdf))
+* [29c3: Many Tamagotchis Were Harmed in the Making of this Presentation (2012)](https://www.youtube.com/watch?v=c4PkcZScBV8)
+* [30c3: Even More Tamagotchis Were Harmed in the Making of this Presentation (2016)](https://www.youtube.com/watch?v=mCt5U5ssbGU) ([slides](https://events.ccc.de/congress/2013/Fahrplan/system/attachments/2195/original/30c3_(1).pdf))
+* [Jeroen Domburg Implementing the Tamagotchi Singularity (2015)](https://www.youtube.com/watch?v=3_-e_cJ1-Gs)
 
 ### Videos 
 
