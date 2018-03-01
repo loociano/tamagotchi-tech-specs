@@ -38,6 +38,14 @@ a:hover {
   text-decoration:underline;
 }
 
+ul ul {
+  margin-bottom: 0;
+}
+
+header {
+  width: 200px;
+}
+
 header img {
   display: inline;
 }
@@ -76,8 +84,8 @@ header ul.toc a:hover {
   font-weight: normal;
 }
 
-ul ul {
-  margin-bottom: 0;
+section {
+  width: 570px;
 }
 
 .half-sized img {
@@ -86,7 +94,7 @@ ul ul {
 }
 
 @media print, screen and (max-width: 960px) {
-  body, h1, h2, h3, h4, h5, h6, header ul.toc a {
+  body, h2, h3, h4, h5, h6, header ul.toc a {
     font-size: 1.05em;
   }
   header ul {
