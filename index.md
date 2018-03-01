@@ -47,6 +47,9 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 
 [TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go) was released in 2010 and reverse engineered by [Natalie Silvanovich](http://natashenka.ca).
 
+![](assets/img/tamatown-tamago.png)
+*TamaTown Tama-Go*
+
 ### Tech Specs
 
 * CPU: 8-bit CMOS GPLB52320A ([datasheet](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)) with 2x 16-bit timers.
@@ -57,8 +60,8 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
   * Display Controller: 4 levels of gray with 512 bytes of dedicated RAM. 64 segments and 32 commons = 2048 pixels
 * Sound Processing Unit (SPU)
 
-![](assets/img/5713302509_7274f755d7_b.jpg)
-*GPLB52320A schematic and actual chip*
+![](assets/img/gplb52320.jpg)
+*GPLB52320A schematic and actual chip ([source](https://www.kwartzlab.ca/2011/06/tama-go-microcontroller))*
 
 Tama-Go Figure
 
@@ -84,9 +87,6 @@ $FFFE-$FFFF -
 ```
 
 ### Disassembly
-
-![](assets/img/tamago_box.png)
-*TamaTown Tamago packaging ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
 ![](assets/img/tamago_board.jpg)
 *TamaTown board ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
