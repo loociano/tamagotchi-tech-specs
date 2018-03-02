@@ -126,6 +126,15 @@ $FFFE-$FFFF -
 ![](assets/img/IMG_20131218_214604_edit-1021x1024.jpg)
 *Tamagotchi Friends board (front) with epoxy ([source](http://natashenka.ca/tamagotchi-friends-teardown/))*
 
+## Japanese series
+
+* [Tamagotchi Plus Color](http://tamagotchi.wikia.com/wiki/Tamagotchi_Plus_Color) and its upgraded version [Hexangontchi](http://tamagotchi.wikia.com/wiki/Hexagontchi)
+* [Tamagotchi iD](http://tamagotchi.wikia.com/wiki/Tamagotchi_iD) and [Tamagotchi iD L](http://tamagotchi.wikia.com/wiki/Tamagotchi_iD_L)
+* [Tamagotchi Nano](http://tamagotchi.wikia.com/wiki/Tamagotchi_Nano)
+* [Tamagotchi P's](http://tamagotchi.wikia.com/wiki/Tamagotchi_P%27s)
+* [Tamagotchi 4U](http://tamagotchi.wikia.com/wiki/Tamagotchi_4U) and [Tamagotchi 4U+](http://tamagotchi.wikia.com/wiki/Tamagotchi_4U%2B)
+* [Tamagotchi m!x](http://tamagotchi.wikia.com/wiki/Tamagotchi_m!x)
+
 ## References
 
 ### Sites
@@ -155,6 +164,8 @@ $FFFE-$FFFF -
 * [@natashenka Tamagotchi-Hack](https://github.com/natashenka/Tamagotchi-Hack)
 * [@natashenka Egg-Shell - Tamagotchi Development Tools](https://github.com/natashenka/Egg-Shell)
 * [@hortinstein Tamagotchi Matrix](https://github.com/hortinstein/tamatrix)
+* [@MrBlinky TamaPsTranslation](https://github.com/MrBlinky/TamaPsTranslation) Tamagotchi P's English Translation project
+* [@MrBlinky tamadumper](https://github.com/MrBlinky/tamadumper) Tamagotchi P's SPI flash dumper and programmer
 
 ### Datasheets
 
