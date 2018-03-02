@@ -58,6 +58,10 @@ header ul.toc {
   color: #267CB9;
 }
 
+ul.toc ul.toc {
+  list-style-type: circle;
+}
+
 header ul.toc li {
   width: inherit;
   float: none;
@@ -77,6 +81,10 @@ header ul.toc a {
 
 header ul.toc a:hover {
   font-weight: normal;
+}
+
+header a:active {
+  background-color: transparent;
 }
 
 section {
