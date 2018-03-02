@@ -132,7 +132,10 @@ $FFFE-$FFFF -
 * [Tamagotchi iD](http://tamagotchi.wikia.com/wiki/Tamagotchi_iD) and [Tamagotchi iD L](http://tamagotchi.wikia.com/wiki/Tamagotchi_iD_L)
 * [Tamagotchi Nano](http://tamagotchi.wikia.com/wiki/Tamagotchi_Nano)
 * [Tamagotchi P's](http://tamagotchi.wikia.com/wiki/Tamagotchi_P%27s)
+  + Tamagotchi P's was reverse engineered by MrBlinky and later released a [firmware patch](http://mrblinky.net/tama/ps/english/) to translate texts from Japanese to English.
+  + MrBlinky published custom [Virtual Deco Pierces](http://mrblinky.net/tama/vdp/), decorative elements that can be transferred to Tamagotchi via irDa.  
 * [Tamagotchi 4U](http://tamagotchi.wikia.com/wiki/Tamagotchi_4U) and [Tamagotchi 4U+](http://tamagotchi.wikia.com/wiki/Tamagotchi_4U%2B)
+  + Following MrBlinky success with Tamagotchi P's, this version was also reverse engineered and a similar [firmware patch](http://mrblinky.net/tama/4u/english/) has become available.
 * [Tamagotchi m!x](http://tamagotchi.wikia.com/wiki/Tamagotchi_m!x)
 
 ## References
