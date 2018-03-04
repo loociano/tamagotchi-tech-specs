@@ -146,7 +146,7 @@ $FFFE-$FFFF -
 * [TamaTalk](http://www.tamatalk.com/IB/) _The_ Tamagotchi forum by excellence 
 * [Wikipedia. List of Tamagotchi releases](https://en.wikipedia.org/wiki/List_of_Tamagotchi_releases)
 * [Natalie Silvanovich. Personal Site](http://natashenka.ca)
-* [kwartzlab. Natalie Silvanovich posts](https://www.kwartzlab.ca/author/natalies)
+* [Natalie Silvanovich's posts at kwartzlab.ca](https://www.kwartzlab.ca/author/natalies) Natalie's published posts between 2009 and 2013. Remarkable milestones: [determining the Tama-Go microcontroller](https://www.kwartzlab.ca/2011/06/tama-go-microcontroller), [executing code](https://www.kwartzlab.ca/2013/05/code-execution-tamagotchi) and [dumping the ROM](https://www.kwartzlab.ca/2013/05/first-glimpse-soul-tamagotchi)
 * [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
 * [Project TamaShell](http://www.tamashell.com) Complete list of Tamagotchi versions and shells
 * [Pixelmood](http://www.tamatalk.com/pixelmood) Tamagotchi fan site, discontinued in 2011. 2 technical articles were published: [Tamagotchi Inside](http://www.tamatalk.com/pixelmood/tamagotchi_inside.htm) and [Tamagotchi Debugging](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm)
