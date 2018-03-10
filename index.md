@@ -61,7 +61,7 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 
 * CPU: 8-bit CMOS GPLB52320A ([datasheet](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)) with 2x 16-bit timers.
 * RAM: 1,536 bytes
-* ROM: 320K bytes = 10 banks of 32K ([dump](https://github.com/natashenka/Tamagotchi-Hack/tree/master/codedump/rompages), [GP Test Program](https://github.com/natashenka/Tamagotchi-Hack/blob/master/codedump/GPTestProgram))
+* ROM: 640K bytes = 20 banks of 32KB ([dump](https://github.com/natashenka/Tamagotchi-Hack/tree/master/codedump/rompages), [GP Test Program](https://github.com/natashenka/Tamagotchi-Hack/blob/master/codedump/GPTestProgram))
 * IO: 16 ports PA[7:0], PB[7:0]
   * Serial Peripheral Interface (SPI)
   * Display Controller: 4 levels of gray with 512 bytes of dedicated RAM. 64 segments and 32 commons = 2048 pixels
@@ -146,7 +146,7 @@ $FFFE-$FFFF -
 * [TamaTalk](http://www.tamatalk.com/IB/) _The_ Tamagotchi forum by excellence 
 * [Wikipedia. List of Tamagotchi releases](https://en.wikipedia.org/wiki/List_of_Tamagotchi_releases)
 * [Natalie Silvanovich. Personal Site](http://natashenka.ca)
-* [kwartzlab. Natalie Silvanovich posts](https://www.kwartzlab.ca/author/natalies)
+* [Natalie Silvanovich's posts at kwartzlab.ca](https://www.kwartzlab.ca/author/natalies) Natalie's published posts between 2009 and 2013. Remarkable milestones: [determining the Tama-Go microcontroller](https://www.kwartzlab.ca/2011/06/tama-go-microcontroller), [executing code](https://www.kwartzlab.ca/2013/05/code-execution-tamagotchi) and [dumping the ROM](https://www.kwartzlab.ca/2013/05/first-glimpse-soul-tamagotchi)
 * [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
 * [Project TamaShell](http://www.tamashell.com) Complete list of Tamagotchi versions and shells
 * [Pixelmood](http://www.tamatalk.com/pixelmood) Tamagotchi fan site, discontinued in 2011. 2 technical articles were published: [Tamagotchi Inside](http://www.tamatalk.com/pixelmood/tamagotchi_inside.htm) and [Tamagotchi Debugging](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm)
