@@ -16,13 +16,13 @@ h1 {
   font-size: 19pt;
 }
 
+h2 {
+  font-size: 15pt;
+}
+
 img {
   display: block;
   margin: 0 auto;
-}
-
-* + h2 {
-  margin-top: 60px; /* add margin except in introduction */
 }
 
 a:hover, a:focus {
