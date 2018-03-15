@@ -180,6 +180,7 @@ $FFFE-$FFFF -
 * [@MrBlinky TamaPsTranslation](https://github.com/MrBlinky/TamaPsTranslation) Tamagotchi P's English Translation project
 * [@MrBlinky tamadumper](https://github.com/MrBlinky/tamadumper) Tamagotchi P's SPI flash dumper and programmer
 * [@loociano Waking up Tamagotchi Town - TamaTown](http://github.com/loociano/tamatown)
+* [@asterick Tamago - TamaTown for modern browsers](https://github.com/asterick/tamago) Tamago is a TamaTown Tama-Go web emulator written in JavaScript.
 
 ### Datasheets
 
