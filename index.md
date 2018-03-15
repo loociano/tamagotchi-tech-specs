@@ -14,6 +14,12 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 
 ## Tamagotchi Connection Series
 
+![](https://github.com/loociano/tamagotch/blob/master/assets/img/connection/diagram_v3.png)
+*Diagram of Tamagotchi Connection V3*
+
+![](https://github.com/loociano/tamagotch/blob/master/assets/img/connection/diagram_v6.png)
+*Diagram of a Tamagotchi Music Star (V6)*
+
 * Versions: [V1](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_1), [V2](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_2), [Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini), [V3](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_3), [V4](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4), [V4.5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4.5), [V5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5), [V5.5 (Celebrity)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5_Celebrity) and [V6 (Music Star)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Music_Star)
 * Release Dates: 2004-2009
 * Tamagotchi Connection had a [Debug Mode](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm) that could be enabled only by disassembling. Debug mode allows character selection and making time run faster.
@@ -51,6 +57,9 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 </p>
 
 ## TamaTown Tama-Go
+
+![](https://github.com/loociano/tamagotch/blob/master/assets/img/tamago/diagram.png?raw=true)
+*Diagram of a TamaTown Tama-Go*
 
 [TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go) was released in 2010 and reverse engineered by [Natalie Silvanovich](http://natashenka.ca).
 
@@ -108,6 +117,9 @@ $FFFE-$FFFF -
 *TamaTown figure board with epoxy ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
 ## Tamagotchi Friends Series
+
+![](https://github.com/loociano/tamagotch/blob/master/assets/img/friends/diagram.jpg?raw=true)
+*Diagram of a Tamagotchi Friends*
 
 * Versions: [Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends) and [Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
 * Release dates: 2014-2016
