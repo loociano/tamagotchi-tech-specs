@@ -21,6 +21,12 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 ![](assets/img/connection/diagram_v3.png)
 *Diagram of Tamagotchi Connection V3*
 
+![](assets/img/connection/diagram_v4.jpg)
+*Diagram of a Tamagotchi Connection V4*
+
+![](assets/img/connection/diagram_v5.jpg)
+*Diagram of a Tamagotchi Connection V5*
+
 ![](assets/img/connection/diagram_v6.png)
 *Diagram of a Tamagotchi Music Star (V6)*
 
