@@ -1,10 +1,10 @@
-## Introduction
+# Introduction
 
 [tamagotch.org](http://tamagotch.org) aims at documenting the technical specifications of Tamagotchi toys, with focus on worldwide releases. This project is inspired by [this talk](https://www.youtube.com/watch?v=c4PkcZScBV8) by [Natalie Silvanovich](http://natashenka.ca) and her further work on Tamagotchis.
 
 Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute or report a broken link.
 
-## Tamagotchi Original Series
+# Tamagotchi Original Series
 
 * Versions: [P1 and P2](http://tamagotchi.wikia.com/wiki/Tamagotchi_(1996_Pet)), [Angel](http://tamagotchi.wikia.com/wiki/Tamagotchi_Angel) and [Ocean](http://tamagotchi.wikia.com/wiki/Tamagotchi_Ocean) 
 * Release Dates: 1996-1998
@@ -12,7 +12,11 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 ![](assets/img/US6213871B1-fig1.png)
 *Block diagram of essential portions of a Tamagotchi ([source](https://patents.google.com/patent/US6213871B1))*
 
-## Tamagotchi Connection Series
+# Tamagotchi Connection Series
+
+* Versions: [V1](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_1), [V2](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_2), [Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini), [V3](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_3), [V4](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4), [V4.5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4.5), [V5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5), [V5.5 (Celebrity)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5_Celebrity) and [V6 (Music Star)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Music_Star)
+* Release Dates: 2004-2009
+* Tamagotchi Connection had a [Debug Mode](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm) that could be enabled only by disassembling. Debug mode allows character selection and making time run faster.
 
 ![](assets/img/connection/diagram_v3.png)
 *Diagram of Tamagotchi Connection V3*
@@ -20,14 +24,10 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 ![](assets/img/connection/diagram_v6.png)
 *Diagram of a Tamagotchi Music Star (V6)*
 
-* Versions: [V1](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_1), [V2](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_2), [Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini), [V3](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_3), [V4](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4), [V4.5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4.5), [V5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5), [V5.5 (Celebrity)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5_Celebrity) and [V6 (Music Star)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Music_Star)
-* Release Dates: 2004-2009
-* Tamagotchi Connection had a [Debug Mode](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm) that could be enabled only by disassembling. Debug mode allows character selection and making time run faster.
-
 ![](assets/img/connection_debug.jpg)
 *Activating Debug Mode with a pencil ([source](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm))*
 
-### Disassembly 
+## Disassembly 
 
 ![](assets/img/1_fN1ejV-wDzZNh1dUgH07JA.jpeg)
 *Tamagotchi Connection disassembly ([source](https://artplusmarketing.com/another-icons-teardown-tamagotchi-original-322dc8ed188d))*
@@ -35,19 +35,19 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 ![](assets/img/tamagotchi_connection_open.jpg)
 *Another Tamagotchi Connection disassembly ([source](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm))*
 
-## Tamagotchi Mini
+# Tamagotchi Mini
 
 [Tamagotchi Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini) was released in 2005 and re-launched worldwide in 2017.
 
 * [Official Page (Japanese)](http://tamagotch.channel.or.jp/tamagotchi/mini)
 
-### Tech Specs
+## Tech Specs
 
 * CPU: ?
 * Memory: ?
 * IO: 3 buttons, 16x16 pixel screen
 
-### Disassembly
+## Disassembly
 
 <p class="half-sized">
   <img src="assets/img/IMG_20180224_134246.jpg"/>
@@ -56,17 +56,17 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
   <img src="assets/img/IMG_20180224_182121.jpg"/>
 </p>
 
-## TamaTown Tama-Go
+# TamaTown Tama-Go
+
+[TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go) was released in 2010 and reverse engineered by [Natalie Silvanovich](http://natashenka.ca).
 
 ![](assets/img/tamago/diagram.png)
 *Diagram of a TamaTown Tama-Go*
 
-[TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go) was released in 2010 and reverse engineered by [Natalie Silvanovich](http://natashenka.ca).
-
 ![](assets/img/tamatown-tamago.png)
 *TamaTown Tama-Go*
 
-### Tech Specs
+## Tech Specs
 
 * CPU: 8-bit CMOS GPLB52320A ([datasheet](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)) with 2x 16-bit timers.
 * RAM: 1,536 bytes
@@ -83,7 +83,7 @@ Tama-Go Figure
 
 * ROM: GPR26LXXXX (8MB or 16MB)
 
-### Memory Map
+## Memory Map
 
 ```
 $0000-$0600 SPU RAM, GP RAM
@@ -102,7 +102,7 @@ $FFFA-$FFFD NMI and reset vector
 $FFFE-$FFFF -
 ```
 
-### Disassembly
+## Disassembly
 
 ![](assets/img/tamago_board.jpg)
 *TamaTown board ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
@@ -116,15 +116,15 @@ $FFFE-$FFFF -
 ![](assets/img/tamago_mask_rom.jpg)
 *TamaTown figure board with epoxy ([source](https://www.kwartzlab.ca/2010/11/tama-town-tamago-teardown))*
 
-## Tamagotchi Friends Series
-
-![](assets/img/friends/diagram.jpg)
-*Diagram of a Tamagotchi Friends*
+# Tamagotchi Friends Series
 
 * Versions: [Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends) and [Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
 * Release dates: 2014-2016
 
-### Disassembly
+![](assets/img/friends/diagram.jpg)
+*Diagram of a Tamagotchi Friends*
+
+## Disassembly
 
 ![](assets/img/IMG_20131218_220653_edit-1024x636.jpg)
 *Tamagotchi Friends ([source](http://natashenka.ca/tamagotchi-friends-teardown/))*
@@ -138,7 +138,7 @@ $FFFE-$FFFF -
 ![](assets/img/IMG_20131218_214604_edit-1021x1024.jpg)
 *Tamagotchi Friends board (front) with epoxy ([source](http://natashenka.ca/tamagotchi-friends-teardown/))*
 
-## Japanese series
+# Japanese series
 
 * [Tamagotchi Plus Color](http://tamagotchi.wikia.com/wiki/Tamagotchi_Plus_Color) and its upgraded version [Hexangontchi](http://tamagotchi.wikia.com/wiki/Hexagontchi)
 * [Tamagotchi iD](http://tamagotchi.wikia.com/wiki/Tamagotchi_iD) and [Tamagotchi iD L](http://tamagotchi.wikia.com/wiki/Tamagotchi_iD_L)
@@ -150,9 +150,9 @@ $FFFE-$FFFF -
   + Following [MrBlinky](https://twitter.com/mstrblinky) earlier success with Tamagotchi P's, this version was also reverse engineered and a similar [firmware patch](http://mrblinky.net/tama/4u/english/) was made available.
 * [Tamagotchi m!x](http://tamagotchi.wikia.com/wiki/Tamagotchi_m!x)
 
-## References
+# References
 
-### Sites
+## Sites
 
 * [tamagotchi.wikia.com](http://tamagotchi.wikia.com) The most comprehensive Tamagotchi Wiki to date
 * [Wikipedia. List of Tamagotchi releases](https://en.wikipedia.org/wiki/List_of_Tamagotchi_releases)
@@ -161,30 +161,29 @@ $FFFE-$FFFF -
 * [Pixelmood](http://www.tamatalk.com/pixelmood) Tamagotchi fan site, discontinued in 2011. 2 technical articles were published: [Tamagotchi Inside](http://www.tamatalk.com/pixelmood/tamagotchi_inside.htm) and [Tamagotchi Debugging](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm)
 * [tamenagerie.com](http://www.tamenagerie.com/) Old looking website with plenty of content
 
-### Forums
+## Forums
 
 * [TamaTalk](http://www.tamatalk.com/IB/) _The_ Tamagotchi forum by excellence. As of March 2018, TamaTalk has 94k members and 1,7M posts
 * [Tama Zone](http://tama-zone.com/) As of March 2018, Tama Zone has 6k members and 300k posts 
 
-### Projects
+## Projects
 
 * [Natalie Silvanovich's posts at kwartzlab.ca](https://www.kwartzlab.ca/author/natalies) Natalie's published posts between 2009 and 2013. Remarkable milestones: [determining the Tama-Go microcontroller](https://www.kwartzlab.ca/2011/06/tama-go-microcontroller), [executing code](https://www.kwartzlab.ca/2013/05/code-execution-tamagotchi) and [dumping the ROM](https://www.kwartzlab.ca/2013/05/first-glimpse-soul-tamagotchi)
 * [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
 * [Waking up Tamagotchi Town - TamaTown. loociano (2018)](http://tamagotch.org/tamatown)
 
-
-### Talks
+## Talks
 
 * [29c3: Many Tamagotchis Were Harmed in the Making of this Presentation (2012)](https://www.youtube.com/watch?v=c4PkcZScBV8)
 * [30c3: Even More Tamagotchis Were Harmed in the Making of this Presentation (2016)](https://www.youtube.com/watch?v=mCt5U5ssbGU) ([slides](https://events.ccc.de/congress/2013/Fahrplan/system/attachments/2195/original/30c3_(1).pdf))
 * [Jeroen Domburg Implementing the Tamagotchi Singularity (2015)](https://www.youtube.com/watch?v=3_-e_cJ1-Gs)
 
-### Videos 
+## Videos 
 
 * [Erica Griffin. Tamagotchi Take Apart Guide (2009)](https://www.youtube.com/watch?v=ShO4Uam0XKM) Disassembly of a P1 Tamagotchi
 * [Pavel Zhovner. Tamagotchi Friends Teardown (2015)](https://www.youtube.com/watch?v=Rm9d0W7wLKk) Disassembling a Tamagotchi Friends
 
-### GitHub repos
+## GitHub repos
 
 * [@natashenka Tamagotchi-Hack](https://github.com/natashenka/Tamagotchi-Hack)
 * [@natashenka Egg-Shell - Tamagotchi Development Tools](https://github.com/natashenka/Egg-Shell)
@@ -194,12 +193,12 @@ $FFFE-$FFFF -
 * [@loociano Waking up Tamagotchi Town - TamaTown](http://github.com/loociano/tamatown)
 * [@asterick Tamago - TamaTown for modern browsers](https://github.com/asterick/tamago) Tamago is a TamaTown Tama-Go web emulator written in JavaScript.
 
-### Datasheets
+## Datasheets
 
 * [Generalplus. GPLB52640A-52320A-51640A-51320A Version 1.9 (Dec 30, 2010).](http://www.generalplus.com/doc/ds/GPLB52640A-52320A-51640A-51320AV19_ds.pdf)
 * [GPLB5x/3x GM03 Library User's Manual Version 2.0 (April 29, 2009)](http://www.lcis.com.tw/paper_store/paper_store/gplb5x_lb3x-GM03%20Libraryv20_user-201471313910398.pdf)
 
-### Patents
+## Patents
 
 * [Nurturing simulation apparatus for virtual creatures. US6213871B1 (1997)](https://patents.google.com/patent/US6213871B1)
 * [Game apparatus. USD398659S (1997)](https://patents.google.com/patent/USD398659S)
