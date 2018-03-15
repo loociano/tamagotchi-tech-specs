@@ -143,15 +143,25 @@ $FFFE-$FFFF -
 ### Sites
 
 * [tamagotchi.wikia.com](http://tamagotchi.wikia.com) The most comprehensive Tamagotchi Wiki to date
-* [TamaTalk](http://www.tamatalk.com/IB/) _The_ Tamagotchi forum by excellence 
 * [Wikipedia. List of Tamagotchi releases](https://en.wikipedia.org/wiki/List_of_Tamagotchi_releases)
 * [Natalie Silvanovich. Personal Site](http://natashenka.ca)
-* [Natalie Silvanovich's posts at kwartzlab.ca](https://www.kwartzlab.ca/author/natalies) Natalie's published posts between 2009 and 2013. Remarkable milestones: [determining the Tama-Go microcontroller](https://www.kwartzlab.ca/2011/06/tama-go-microcontroller), [executing code](https://www.kwartzlab.ca/2013/05/code-execution-tamagotchi) and [dumping the ROM](https://www.kwartzlab.ca/2013/05/first-glimpse-soul-tamagotchi)
-* [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
 * [Project TamaShell](http://www.tamashell.com) Complete list of Tamagotchi versions and shells
 * [Pixelmood](http://www.tamatalk.com/pixelmood) Tamagotchi fan site, discontinued in 2011. 2 technical articles were published: [Tamagotchi Inside](http://www.tamatalk.com/pixelmood/tamagotchi_inside.htm) and [Tamagotchi Debugging](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm)
+* [tamenagerie.com](http://www.tamenagerie.com/) Old looking website with plenty of content
 
-### Presentations
+### Forums
+
+* [TamaTalk](http://www.tamatalk.com/IB/) _The_ Tamagotchi forum by excellence. As of March 2018, TamaTalk has 94k members and 1,7M posts
+* [Tama Zone](http://tama-zone.com/) As of March 2018, Tama Zone has 6k members and 300k posts 
+
+### Projects
+
+* [Natalie Silvanovich's posts at kwartzlab.ca](https://www.kwartzlab.ca/author/natalies) Natalie's published posts between 2009 and 2013. Remarkable milestones: [determining the Tama-Go microcontroller](https://www.kwartzlab.ca/2011/06/tama-go-microcontroller), [executing code](https://www.kwartzlab.ca/2013/05/code-execution-tamagotchi) and [dumping the ROM](https://www.kwartzlab.ca/2013/05/first-glimpse-soul-tamagotchi)
+* [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
+* [Waking up Tamagotchi Town - TamaTown. loociano (2018)](http://tamagotch.org/tamatown)
+
+
+### Talks
 
 * [29c3: Many Tamagotchis Were Harmed in the Making of this Presentation (2012)](https://www.youtube.com/watch?v=c4PkcZScBV8)
 * [30c3: Even More Tamagotchis Were Harmed in the Making of this Presentation (2016)](https://www.youtube.com/watch?v=mCt5U5ssbGU) ([slides](https://events.ccc.de/congress/2013/Fahrplan/system/attachments/2195/original/30c3_(1).pdf))
@@ -169,6 +179,7 @@ $FFFE-$FFFF -
 * [@hortinstein Tamagotchi Matrix](https://github.com/hortinstein/tamatrix)
 * [@MrBlinky TamaPsTranslation](https://github.com/MrBlinky/TamaPsTranslation) Tamagotchi P's English Translation project
 * [@MrBlinky tamadumper](https://github.com/MrBlinky/tamadumper) Tamagotchi P's SPI flash dumper and programmer
+* [@loociano Waking up Tamagotchi Town - TamaTown](http://github.com/loociano/tamatown)
 
 ### Datasheets
 
