@@ -9,7 +9,7 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 * Versions: [P1 and P2](http://tamagotchi.wikia.com/wiki/Tamagotchi_(1996_Pet)), [Angel](http://tamagotchi.wikia.com/wiki/Tamagotchi_Angel) and [Ocean](http://tamagotchi.wikia.com/wiki/Tamagotchi_Ocean) 
 * Release Dates: 1996-1998
 
-![](assets/img/US6213871B1-fig1.png)
+![](assets/img/original/US6213871B1-fig1.png)
 *Block diagram of essential portions of a Tamagotchi ([source](https://patents.google.com/patent/US6213871B1))*
 
 # Tamagotchi Connection Series
