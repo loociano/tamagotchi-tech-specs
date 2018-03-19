@@ -9,26 +9,11 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 * Versions: [P1 and P2](http://tamagotchi.wikia.com/wiki/Tamagotchi_(1996_Pet)), [Angel](http://tamagotchi.wikia.com/wiki/Tamagotchi_Angel) and [Ocean](http://tamagotchi.wikia.com/wiki/Tamagotchi_Ocean) 
 * Release Dates: 1996-1998
 
-![](assets/img/original/US6213871B1-fig1.png)
-*Block diagram of essential portions of a Tamagotchi ([source](https://patents.google.com/patent/US6213871B1))*
-
 # Tamagotchi Connection Series
 
 * Versions: [V1](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_1), [V2](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_2), [Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini), [V3](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_3), [V4](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4), [V4.5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_4.5), [V5](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5), [V5.5 (Celebrity)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Connection_Version_5_Celebrity) and [V6 (Music Star)](http://tamagotchi.wikia.com/wiki/Tamagotchi_Music_Star)
 * Release Dates: 2004-2009
 * Tamagotchi Connection had a [Debug Mode](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm) that could be enabled only by disassembling. Debug mode allows character selection and making time run faster.
-
-![](assets/img/connection/diagram_v3.png)
-*Diagram of Tamagotchi Connection V3*
-
-![](assets/img/connection/diagram_v4.jpg)
-*Diagram of a Tamagotchi Connection V4*
-
-![](assets/img/connection/diagram_v5.jpg)
-*Diagram of a Tamagotchi Connection V5*
-
-![](assets/img/connection/diagram_v6.png)
-*Diagram of a Tamagotchi Music Star (V6)*
 
 ![](assets/img/connection_debug.jpg)
 *Activating Debug Mode with a pencil ([source](http://www.tamatalk.com/pixelmood/tamagotchi_connection_debugging.htm))*
@@ -44,9 +29,6 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 # Tamagotchi Mini
 
 [Tamagotchi Mini](http://tamagotchi.wikia.com/wiki/Tamagotchi_Mini) was released in 2005 and re-launched worldwide in 2017 to celebrate Tamagotchi's 20th Anniversary. [Official Page (Japanese)](http://tamagotch.channel.or.jp/tamagotchi/mini).
-
-![](assets/img/mini/diagram.jpg)
-*Diagram of Tamagotchi Mini 20th Anniversary*
 
 ## Tech Specs
 
@@ -66,12 +48,6 @@ Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute
 # TamaTown Tama-Go
 
 [TamaTown Tama-Go](http://tamagotchi.wikia.com/wiki/TamaTown_Tama-Go) was released in 2010 and reverse engineered by [Natalie Silvanovich](http://natashenka.ca).
-
-![](assets/img/tamago/diagram.png)
-*Diagram of a TamaTown Tama-Go*
-
-![](assets/img/tamatown-tamago.png)
-*TamaTown Tama-Go*
 
 ## Tech Specs
 
@@ -127,9 +103,6 @@ $FFFE-$FFFF -
 
 * Versions: [Tamagotchi Friends](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends) and [Tamagotchi Friends: Dream Town](http://tamagotchi.wikia.com/wiki/Tamagotchi_Friends:_Dream_Town_Digital_Friend)
 * Release dates: 2014-2016
-
-![](assets/img/friends/diagram.jpg)
-*Diagram of a Tamagotchi Friends*
 
 ## Disassembly
 
