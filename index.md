@@ -1,6 +1,6 @@
 # Introduction
 
-[tamagotch.org](http://tamagotch.org) aims at documenting the technical specifications of Tamagotchi toys, with focus on worldwide releases. This project is inspired by [this talk](https://www.youtube.com/watch?v=c4PkcZScBV8) by [Natalie Silvanovich](http://natashenka.ca) and her further work on Tamagotchis.
+This page compiles the technical specifications of Tamagotchi toys, with focus on worldwide releases. This project is inspired by [this talk](https://www.youtube.com/watch?v=c4PkcZScBV8) by [Natalie Silvanovich](http://natashenka.ca) and her further work on Tamagotchis.
 
 Check out the [GitHub repo](https://github.com/loociano/tamagotch) to contribute or report a broken link.
 
@@ -156,7 +156,7 @@ $FFFE-$FFFF -
 
 * [Natalie Silvanovich's posts at kwartzlab.ca](https://www.kwartzlab.ca/author/natalies) Natalie's published posts between 2009 and 2013. Remarkable milestones: [determining the Tama-Go microcontroller](https://www.kwartzlab.ca/2011/06/tama-go-microcontroller), [executing code](https://www.kwartzlab.ca/2013/05/code-execution-tamagotchi) and [dumping the ROM](https://www.kwartzlab.ca/2013/05/first-glimpse-soul-tamagotchi)
 * [spritesmods.com. Creating the Tamagotchi Singularity](http://spritesmods.com/?art=tamasingularity)
-* [Waking up Tamagotchi Town - TamaTown. loociano (2018)](http://tamagotch.org/tamatown)
+* [Waking up Tamagotchi Town - TamaTown. loociano (2018)](http://github.com/loociano/tamatown)
 
 ## Talks
 
